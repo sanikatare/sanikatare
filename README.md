@@ -92,18 +92,11 @@ Computer Engineering Undergraduate · AI/ML Enthusiast
 
 <p align="center">
 
-<sub>
-
-Python • SQL • C++ • JavaScript • TypeScript • R • TensorFlow • Keras • Scikit-Learn • Pandas • NumPy • Hugging Face • LangChain • Flask • React • Node.js • MongoDB • Git • Postman • Jupyter • Cursor • AWS • Vertex AI • Google Gemini • Claude API
-
-</sub>
-
 </p>
 
 ---
 
 <p align="center">
 
-<em>"Build • Learn • Innovate"</em>
 
 </p>
