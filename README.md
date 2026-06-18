@@ -120,68 +120,7 @@ I enjoy building systems that are practical, scalable and deployable.
 
 ---
 
-# FEATURED PROJECTS
 
-| Project                        | Description                                                                                       |
-| ------------------------------ | ------------------------------------------------------------------------------------------------- |
-| JurisAI                        | RAG-powered legal intelligence platform for extracting obligations, risks and actionable insights |
-| Legal Document Simplifier      | AI-powered legal document analysis and simplification                                             |
-| LiFi–WiFi Intelligent Handover | Patent-filed predictive network switching system                                                  |
-| Military Convoy Intelligence   | Risk-aware routing and mission planning                                                           |
-| Hinglish Hate Speech Detection | Comparative deep learning NLP study                                                               |
-| TaskTrackAI                    | AI-powered academic productivity assistant                                                        |
-
----
-
-# CURRENTLY LEARNING
-
-* AI Agents
-
-* Advanced RAG Architectures
-
-* LLM Fine-Tuning
-
-* AWS Cloud Architecture
-
-* MLOps
-
----
-
-# GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanikatare&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikatare&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanikatare&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# CERTIFICATIONS
-
-* The AI Engineer Bootcamp
-
-* Data Science & Machine Learning (IIT Guwahati)
-
-* AWS Cloud Practitioner Essentials
-
-* AWS Certified Cloud Practitioner (CLF-C02)
-
-* Mastering Data Structures & Algorithms
-
-* Complete Web Development Course
-
----
 
 <div align="center">
 
