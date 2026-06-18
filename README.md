@@ -1,6 +1,10 @@
-# Hi, I'm Sanika Tare
+<div align="center">
 
-### AI / ML Engineer • Generative AI • Deep Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7C3AED&height=220&section=header&text=SANIKA%20TARE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Deep%20Learning&descAlignY=60&descColor=ffffff"/>
+
+</div>
+
+<div align="center">
 
 Computer Engineering Undergraduate (2023–2027)
 
@@ -8,154 +12,181 @@ Pimpri Chinchwad College of Engineering, Pune
 
 Building production-ready AI systems from research to deployment.
 
+<br>
+
+<a href="https://linkedin.com/in/sanika-tare31">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:taresanika31@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sanikatare">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
-## About Me
+# ABOUT ME
 
-I'm a Computer Engineering undergraduate at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**, with a minor in **Generative AI Tools and Techniques**.
+<table>
 
-I build end-to-end AI systems that solve real-world problems using Artificial Intelligence, Deep Learning, Natural Language Processing, and Generative AI.
+<tr>
 
-My focus is on creating solutions that are practical, scalable, and deployable.
+<td width="60%">
+
+I am a Computer Engineering undergraduate with a minor in Generative AI Tools and Techniques.
+
+My interests include:
+
+• Artificial Intelligence
+
+• Deep Learning
+
+• Natural Language Processing
+
+• Generative AI
+
+• AI Agents
+
+• Cloud Computing
+
+• MLOps
+
+I enjoy building systems that are practical, scalable and deployable.
+
+</td>
+
+<td width="40%">
+
+<img width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## Technical Skills
+# TECH STACK
 
 ### Languages
 
-`Python` `SQL` `C++` `JavaScript` `TypeScript` `R`
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,r"/>
+
+</p>
 
 ### AI / ML
 
-`TensorFlow`
+<p>
 
-`Keras`
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-`Scikit-Learn`
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 
-`Pandas`
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-`NumPy`
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
-`Hugging Face`
-
-`LangChain`
+</p>
 
 ### Frameworks & Tools
 
-`Flask`
+<p>
 
-`React`
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,mongodb,git"/>
 
-`Node.js`
+</p>
 
-`MongoDB`
+### Cloud
 
-`Git`
+<p>
 
-`Postman`
+<img src="https://skillicons.dev/icons?i=aws"/>
 
-`Jupyter`
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge"/>
 
-`Cursor`
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge"/>
 
-### Cloud & Platforms
+<img src="https://img.shields.io/badge/Claude-D4A574?style=for-the-badge"/>
 
-`AWS`
-
-`Vertex AI`
-
-`Google Gemini`
-
-`Claude API`
+</p>
 
 ---
 
-## Featured Projects
+# FEATURED PROJECTS
 
-### JurisAI
-
-Generative AI legal intelligence platform that transforms complex legal documents into actionable insights using RAG and semantic search.
-
-**Tech:** Python • LangChain • Gemini • OCR • Vector Database
-
----
-
-### Legal Document Simplifier
-
-AI-powered platform that simplifies legal documents, detects risks, and explains clauses in simple language.
-
-**Tech:** Generative AI • NLP • RAG
+| Project                        | Description                                                                                       |
+| ------------------------------ | ------------------------------------------------------------------------------------------------- |
+| JurisAI                        | RAG-powered legal intelligence platform for extracting obligations, risks and actionable insights |
+| Legal Document Simplifier      | AI-powered legal document analysis and simplification                                             |
+| LiFi–WiFi Intelligent Handover | Patent-filed predictive network switching system                                                  |
+| Military Convoy Intelligence   | Risk-aware routing and mission planning                                                           |
+| Hinglish Hate Speech Detection | Comparative deep learning NLP study                                                               |
+| TaskTrackAI                    | AI-powered academic productivity assistant                                                        |
 
 ---
 
-### AI-Based LiFi–WiFi Intelligent Handover System
-
-Patent-filed predictive network intelligence system using LSTM and Transformers.
-
-**Tech:** Python • LSTM • Transformers • Deep Learning
-
----
-
-### Military Convoy Risk Prediction & Route Intelligence System
-
-AI-powered decision support system for military logistics using geospatial analytics and intelligent route recommendations.
-
-**Tech:** Python • GIS • LLM • Route Optimization
-
----
-
-### Hinglish Hate Speech Detection
-
-Comparative study of RNN, LSTM, and BiLSTM architectures for code-mixed Hinglish text classification.
-
-**Tech:** Python • TensorFlow • NLP
-
----
-
-### TaskTrackAI
-
-AI-powered academic productivity platform for adaptive scheduling and task prioritization.
-
-**Tech:** TypeScript • AI/ML
-
----
-
-## Currently Learning
+# CURRENTLY LEARNING
 
 * AI Agents
+
 * Advanced RAG Architectures
+
 * LLM Fine-Tuning
+
 * AWS Cloud Architecture
+
 * MLOps
 
 ---
 
-## Certifications
+# GITHUB ANALYTICS
 
-* The AI Engineer Bootcamp (Udemy)
+<div align="center">
 
-* Data Science and Machine Learning (IIT Guwahati)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanikatare&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikatare&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanikatare&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# CERTIFICATIONS
+
+* The AI Engineer Bootcamp
+
+* Data Science & Machine Learning (IIT Guwahati)
 
 * AWS Cloud Practitioner Essentials
 
 * AWS Certified Cloud Practitioner (CLF-C02)
 
-* Mastering Data Structures and Algorithms using C and C++
+* Mastering Data Structures & Algorithms
 
 * Complete Web Development Course
 
 ---
 
-## Connect With Me
+<div align="center">
 
-LinkedIn: https://linkedin.com/in/sanika-tare31
+"Building AI systems that are practical, deployable and impactful."
 
-GitHub: https://github.com/sanikatare
+</div>
 
-Email: [taresanika31@gmail.com](mailto:sanikatare.work@gmail.com)
-
----
-
-Building AI systems that are practical, deployable, and impactful.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:302b63,100:0f0c29&height=120&section=footer"/>
