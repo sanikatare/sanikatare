@@ -1,30 +1,33 @@
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:09090F,30:17172B,70:5B21B6,100:7C3AED&text=SANIKA%20TARE&fontColor=FFFFFF&fontSize=72&fontAlignY=38&animation=twinkling&desc=AI%20%20•%20%20ML%20Engineer%20%20•%20%20Generative%20AI%20%20•%20%20Deep%20Learning&descAlignY=60&descColor=E5E7EB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:08080F,40:1A103D,70:5B21B6,100:7C3AED&text=SANIKA%20TARE&fontColor=FFFFFF&fontSize=72&animation=twinkling&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20•%20Generative%20AI%20•%20Deep%20Learning&descAlignY=62&descColor=E5E7EB"/>
 
-<h3>Building intelligent systems from research to real-world impact</h3>
+### Building production-ready AI systems from research to deployment
 
-<p>
+<img src="https://img.shields.io/badge/Computer%20Engineering%20(2023--2027)-5B21B6?style=for-the-badge"/>
 
-Pimpri Chinchwad College of Engineering (PCCOE) • Pune, India
-
-<br>
-
-Computer Engineering Undergraduate (2023–2027)
-
-</p>
+<br><br>
 
 <a href="https://linkedin.com/in/sanika-tare31">
+
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:taresanika31@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/sanikatare">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
+<img src="https://img.shields.io/badge/Pune%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -36,29 +39,51 @@ Computer Engineering Undergraduate (2023–2027)
 
 <tr>
 
-<td width="65%">
+<td width="55%">
 
-I am a Computer Engineering undergraduate with a minor in Generative AI Tools and Techniques.
+I'm a Computer Engineering undergraduate at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**, with a minor in **Generative AI Tools and Techniques**.
 
-I enjoy building end-to-end AI systems that solve real-world problems.
+I build end-to-end AI systems that solve real-world problems using:
 
-My primary areas of interest are:
+- Artificial Intelligence
 
-* Generative AI
-* Large Language Models (LLMs)
-* Deep Learning
-* Natural Language Processing
-* AI Agents
-* Cloud Computing
-* MLOps
+- Deep Learning
 
-I focus on creating solutions that are practical, scalable, and deployable.
+- Natural Language Processing
+
+- Generative AI
+
+- AI Agents
+
+- Cloud Computing
+
+- MLOps
+
+My focus is to build solutions that are:
+
+- Practical
+
+- Scalable
+
+- Deployable
 
 </td>
 
-<td width="35%" align="center">
+<td width="45%" align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanikatare&theme=tokyonight&row=1&column=3&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sanikatare&theme=tokyonight&row=1&column=2&no-frame=true"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Specialization-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/6%2B-Major%20Projects-4338CA?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/5%2B-Certifications-9333EA?style=for-the-badge"/>
 
 </td>
 
@@ -70,15 +95,33 @@ I focus on creating solutions that are practical, scalable, and deployable.
 
 ## TECH STACK
 
-<div align="center">
+<table>
+
+<tr>
+
+<td width="25%">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts"/>
+</td>
 
-<br><br>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,r"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ### AI / ML
+
+</td>
+
+<td>
 
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 
@@ -86,19 +129,47 @@ I focus on creating solutions that are practical, scalable, and deployable.
 
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ### Frameworks & Tools
 
+</td>
+
+<td>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,flask,mongodb,git,postman"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ### Cloud Platforms
+
+</td>
+
+<td>
 
 <img src="https://skillicons.dev/icons?i=aws"/>
 
@@ -108,65 +179,43 @@ I focus on creating solutions that are practical, scalable, and deployable.
 
 <img src="https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge"/>
 
-</div>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## FEATURED PROJECTS
-
-| Project                        | Description                                                             |
-| ------------------------------ | ----------------------------------------------------------------------- |
-| JurisAI                        | Generative AI legal intelligence platform using RAG and semantic search |
-| Legal Document Simplifier      | AI-powered legal document analysis and risk detection                   |
-| LiFi–WiFi Intelligent Handover | Patent-filed predictive network switching system                        |
-| Military Convoy Intelligence   | AI-powered route optimization and risk prediction                       |
-| Hinglish Hate Speech Detection | Deep learning NLP research for code-mixed text                          |
-| TaskTrackAI                    | AI-powered academic productivity assistant                              |
-
----
-
-## GITHUB ANALYTICS
+## LET'S CONNECT
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanikatare&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://linkedin.com/in/sanika-tare31">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikatare&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-</div>
+</a>
 
-<br>
+<a href="mailto:taresanika31@gmail.com">
 
-<div align="center">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-<img src="https://streak-stats.demolab.com?user=sanikatare&theme=tokyonight&hide_border=true"/>
+</a>
 
-</div>
+<a href="https://github.com/sanikatare">
 
----
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-## CERTIFICATIONS
+</a>
 
-* The AI Engineer Bootcamp (Udemy)
-
-* Data Science & Machine Learning (IIT Guwahati)
-
-* AWS Cloud Practitioner Essentials
-
-* AWS Certified Cloud Practitioner (CLF-C02)
-
-* Mastering Data Structures & Algorithms
-
-* Complete Web Development Course
-
----
-
-<div align="center">
+<br><br>
 
 ### CODE • CREATE • INNOVATE
 
-Building AI systems that are practical, deployable, and impactful.
+Building AI systems that are practical, deployable and impactful.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,50:302B63,100:09090F&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,50:302B63,100:08080F&section=footer"/>
+```
