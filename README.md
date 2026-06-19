@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0:030712,35:1E3A8A,70:3B82F6,100:BFDBFE&text=SANIKA%20TARE&fontColor=FFFFFF&fontSize=65&fontAlignY=42&animation=fadeIn&desc=Computer%20Engineering%20Undergraduate%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=68&descColor=EFF6FF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=%3E+Initializing+Portfolio...;%3E+Loading+Projects...;%3E+Building+AI+Solutions...;%3E+Deploying+MERN+Applications...;%3E+Welcome+to+Sanika+Tare's+Profile"/>
 
 </p>
 
