@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=%3E+Initializing+Portfolio...;%3E+Loading+Projects...;%3E+Building+AI+Solutions...;%3E+Deploying+MERN+Applications...;%3E+Welcome+to+Sanika+Tare's+Profile"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Sanika+Tare;Computer+Engineering+Undergraduate;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+AI-Powered+Solutions;Always+Learning+Something+New"/>
 
 </p>
 
