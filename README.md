@@ -1,8 +1,8 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:0F0F1A,35:1E1B4B,70:4C1D95,100:7C3AED&text=SANIKA%20TARE&fontColor=FFFFFF&fontSize=62&fontAlignY=42&animation=fadeIn&desc=Computer%20Engineering%20Undergraduate%20•%20AI%20/%20ML%20Enthusiast&descAlignY=68&descColor=CBD5E1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1120,35:312E81,70:6D28D9,100:A855F7&text=SANIKA%20TARE&fontColor=FFFFFF&fontSize=68&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Undergraduate%20|%20Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=62&descColor=E2E8F0"/>
 
-<p align="center">
+</p>
 
 <a href="https://www.linkedin.com/in/sanika-tare31">
 
