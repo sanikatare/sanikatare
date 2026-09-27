@@ -104,10 +104,3 @@
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sanikatare&style=for-the-badge&color=8B5CF6" alt="Profile Views"/>
-
-</p>
